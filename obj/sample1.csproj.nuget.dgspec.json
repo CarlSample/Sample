@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/carl/Downloads/testCsProj/sample1/sample1.csproj": {}
+  },
+  "projects": {
+    "/home/carl/Downloads/testCsProj/sample1/sample1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/carl/Downloads/testCsProj/sample1/sample1.csproj",
+        "projectName": "sample1",
+        "projectPath": "/home/carl/Downloads/testCsProj/sample1/sample1.csproj",
+        "packagesPath": "/home/carl/.nuget/packages/",
+        "outputPath": "/home/carl/Downloads/testCsProj/sample1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/carl/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MessagePack": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.ChakraCore": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.11.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "cleditor": {
+              "target": "Package",
+              "version": "[1.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

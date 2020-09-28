@@ -1,0 +1,13 @@
+/home/carl/Downloads/testCsProj/sample1/bin/Debug/netcoreapp3.1/sample1
+/home/carl/Downloads/testCsProj/sample1/bin/Debug/netcoreapp3.1/sample1.deps.json
+/home/carl/Downloads/testCsProj/sample1/bin/Debug/netcoreapp3.1/sample1.runtimeconfig.json
+/home/carl/Downloads/testCsProj/sample1/bin/Debug/netcoreapp3.1/sample1.runtimeconfig.dev.json
+/home/carl/Downloads/testCsProj/sample1/bin/Debug/netcoreapp3.1/sample1.dll
+/home/carl/Downloads/testCsProj/sample1/bin/Debug/netcoreapp3.1/sample1.pdb
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.csprojAssemblyReference.cache
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.AssemblyInfoInputs.cache
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.AssemblyInfo.cs
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.csproj.CoreCompileInputs.cache
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.dll
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.pdb
+/home/carl/Downloads/testCsProj/sample1/obj/Debug/netcoreapp3.1/sample1.genruntimeconfig.cache
